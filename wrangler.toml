@@ -23,4 +23,4 @@ preview_id = "e5cc2c6509754ce991894a1b2f3c6739"
 SPEED_TIMEOUT_MS = "5000"   # 源地址延迟阈值（毫秒）
 SITE_TIMEOUT_MS = "3000"    # 站点 API 延迟阈值（毫秒）
 FETCH_TIMEOUT_MS = "5000"   # 抓取配置 JSON 超时（毫秒）
-WORKER_BASE_URL = "https://tvbox-source-aggregator.1330194019.workers.dev"
+WORKER_BASE_URL = "https://tvbox-source-aggregator.1330194019.workers.dev" # 自动部署已连接
